@@ -82,5 +82,5 @@
     url: https://raw.githubusercontent.com/MambaOutZY/FreeVmessSUB/main/trojan.txt
 
 # 某个网站抓取
-- type: web-freessrxyz
+- type: https://proxy.yugogo.xyz
   options:
